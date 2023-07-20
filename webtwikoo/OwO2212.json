@@ -1,6 +1,6 @@
 {
     "Bilibili": {
-        "type": "image>",
+        "type": "image",
         "container": [
             {
                 "icon": "<img src=\"https://jsd.cdn.zzko.cn/gh/mrxie68/BiliEmoji@master/src/tv_%E5%B0%8F%E7%94%B5%E8%A7%86/tv-白眼.png\">",
@@ -47,11 +47,11 @@
                 "text": "tv_呕吐"
             },
             {
-                "icon": "<img src=\"https://jsd.cdn.zzko.cn/gh/mrxie68/BiliEmoji@master/src/tv_%E5%B0%8F%E7%94%B5%E8%A7%86/tv-思考.png\>",
+                "icon": "<img src=\"https://jsd.cdn.zzko.cn/gh/mrxie68/BiliEmoji@master/src/tv_%E5%B0%8F%E7%94%B5%E8%A7%86/tv-思考.png\">",
                 "text": "tv_思考"
             },
             {
-               "icon": "<img src=\"https://jsd.cdn.zzko.cn/gh/mrxie68/BiliEmoji@master/src/tv_%E5%B0%8F%E7%94%B5%E8%A7%86/tv-微笑.png\>",
+               "icon": "<img src=\"https://jsd.cdn.zzko.cn/gh/mrxie68/BiliEmoji@master/src/tv_%E5%B0%8F%E7%94%B5%E8%A7%86/tv-微笑.png\">",
                "text": "tv_微笑"
             },
             {
